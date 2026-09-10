@@ -165,7 +165,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Level 1F",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
