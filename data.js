@@ -116,6 +116,50 @@ var APP_DATA = {
           "pitch": 0.16974333130706398,
           "rotation": 0,
           "target": "1-view-2"
+        },
+        {
+          "yaw": 0.08837233789255627,
+          "pitch": 0.1289220183817541,
+          "rotation": 0,
+          "target": "3-view-4"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-view-4",
+      "name": "View 4",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.045574758010427985,
+        "pitch": 0.028647510523857278,
+        "fov": 1.3365071038314758
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.011553757525378572,
+          "pitch": 0.15890948267202631,
+          "rotation": 0,
+          "target": "2-view-3"
         }
       ],
       "infoHotspots": []
